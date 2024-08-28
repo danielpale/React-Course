@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Test!!!!!","image":"https://www.eventsindustryforum.co.uk/images/articles/about_the_eif.jpg","date":"2024-08-28","description":"Test","id":"9e8c85a8-6c1e-4cf8-be9c-152e82aaafae"},{"title":"A new event","image":"https://www.eventsindustryforum.co.uk/images/articles/about_the_eif.jpg","date":"2024-08-28","description":"Some awesome event","id":"9e6ffac5-a85a-4c51-b368-f294c30f7289"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
